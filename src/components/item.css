@@ -1,0 +1,10 @@
+/* ItemCard.module.css */
+.itemCard {
+    display: flex; /* Menggunakan Flexbox */
+    align-items: center; /* Mengatur vertikal ke tengah */
+}
+
+.image {
+    margin-right: 1rem; /* Margin kanan untuk memberi jarak antara gambar dan teks */
+}
+
